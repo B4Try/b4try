@@ -1,17 +1,16 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
-
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+L’association cherche à œuvrer avec les autres associations locales afin de mutualiser les compétences et partager les expériences.
 
 ## Nos activités
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+A titre indicatif, trois axes de réflexion sont ouverts depuis 2024  (liste non-exhaustive) :
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+- **Réflexion sur les flux de déplacement et de stationnement** dans le Village Ste Thérèse en anticipant les futures rénovation des places du quartier Doutre St Jacques et Nazareth, 
+
+- **Veille sur le projet Convergences** afin de protéger la vie riveraine,
+
+- **Agrégation de données historiques** sur la naissance et le développement du quartier en vue d'en valoriser les témoins architecturaux ou autres. 
