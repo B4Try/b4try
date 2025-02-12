@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Village Sainte Thérèse d'Angers France"
 order: 0
+in_menu: true
 ---
+Village Ste Thérèse
 
-# L'Échappée Belle
+Jeune association angevine située sur la rive droite de la Maine  **Village Sainte Thérèse** a pour mission de représenter les habitants du quartier Sainte Thérèse à Angers, de contribuer à l'amélioration du quartier et de mettre en valeur son patrimoine historique 
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+**Nos valeurs sont l'écoute et le respect des humains dans leur diversité.** 
