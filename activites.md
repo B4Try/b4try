@@ -5,7 +5,7 @@ in_menu: true
 ---
 L’association cherche à œuvrer avec les autres associations locales afin de mutualiser les compétences et partager les expériences.
 
-## Nos activités
+## Nos priorités
 
 A titre indicatif, trois axes de réflexion sont ouverts depuis 2024  (liste non-exhaustive) :
 
